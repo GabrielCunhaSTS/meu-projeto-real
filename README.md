@@ -30,3 +30,5 @@ Este projeto é uma aplicação simples que serve como exemplo para demonstrar o
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/seu-usuario/meu-projeto-real.git
+
+Para dúvidas ou sugestões, envie um e-mail para: ggabrielcunha06@gmail.com
